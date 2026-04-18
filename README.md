@@ -21,5 +21,5 @@
 <br/>
 
 <div align="center">
-  <img width="500px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Terminal Matrix" />
+  <img width="500px" src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Terminal Matrix" />
 </div>
