@@ -14,21 +14,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## 🏆 Projeto de Destaque
-
-### 🛡️ [Pokéfield Dex & Team Builder](https://github.com/ViniciusPanonko/Pokefield)
-Um construtor Offline de Equipes Pokémon focado no cenário competitivo. Desenvolvido com React 18 e alimentado pela base de dados oficial na Nuvem (via PokeAPI GraphQL `v1beta`). Possui controle tático massivo de Status e cálculos genéticos de batalhas.
-
-<p align="center">
-  <b>🌟 <a href="https://pokefield.vercel.app" target="_blank">Acessar a Aplicação Real Online</a></b>
-</p>
-
----
-
 <br/>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusPanonko&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPanonko&layout=compact&langs_count=7&theme=nord"/>
+  <img width="500px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" />
 </div>
